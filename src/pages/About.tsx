@@ -9,27 +9,27 @@ const About = () => {
   const timeline = [
     {
       icon: BookOpen,
-      year: "1998",
-      title: "Founding Year",
+      year: "18/09/2015",
+      title: "Ano de fundação",
       description: "Washington Seguros foi fundada com a missão de fornecer soluções de seguros personalizadas e confiáveis para famílias e empresas.",
     },
     {
       icon: Handshake,
-      year: "2005",
-      title: "First Major Partnership",
+      year: "18/09/2015",
+      title: "Primeira grande parceria",
       description: "Fizemos parceria com uma seguradora nacional líder para ampliar nossas ofertas, oferecendo aos clientes acesso a uma gama mais ampla de opções de cobertura.",
     },
     {
       icon: Building,
-      year: "2012",
-      title: "Office Expansion",
-      description: "Mudamos para nossa nova sede no centro de Washington para melhor atender nossa crescente base de clientes e expandir nossa equipe de 300+ membros.",
+      year: "18/09/2021",
+      title: "Expansão do escritório",
+      description: "Mudamos para nossa nova sede para Jose Americo para melhor atender nossa crescente base de clientes e expandir nossa equipe.",
     },
     {
       icon: Award,
-      year: "2023",
-      title: "Celebrating 25 Years",
-      description: "Com orgulho servindo nossa comunidade por mais de um quarto de século com confiança, integridade e um compromisso inabalável com a segurança de nossos clientes.",
+      year: "18/09/2025",
+      title: "Comemorando 10 anos",
+      description: "Com orgulho servindo nossa comunidade por mais de 10 anos com confiança, integridade e um compromisso inabalável com a segurança de nossos clientes.",
     },
   ];
 
@@ -53,25 +53,10 @@ const About = () => {
 
   const team = [
     {
-      name: "John D. Washington",
-      role: "Founder & CEO",
+      name: "Washington Marques",
+      role: "Fundador & CEO",
       image: teamJohn,
-    },
-    {
-      name: "Maria Rodriguez",
-      role: "Head of Operations",
-      image: teamMaria,
-    },
-    {
-      name: "David Chen",
-      role: "Senior Commercial Advisor",
-      image: teamDavid,
-    },
-    {
-      name: "Emily Carter",
-      role: "Personal Lines Specialist",
-      image: teamEmily,
-    },
+    }
   ];
 
   const differentiators = [
