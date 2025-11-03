@@ -139,7 +139,7 @@ const Footer = () => {
           <div className="flex flex-col md:flex-row items-center gap-4 text-sm text-primary-foreground/80">
             <div className="text-center md:text-left">
               <p>© 2024 Washington Seguros. Todos os direitos reservados.</p>
-              <p className="text-xs mt-1">Washington Seguros Corretora de Seguros Ltda - CNPJ: 00.000.000/0001-00</p>
+              <p className="text-xs mt-1">Washington Seguros Corretora de Seguros Ltda - CNPJ: 23.300.836/0001-07</p>
             </div>
           </div>
         </div>

@@ -61,15 +61,15 @@ const About = () => {
 
   const differentiators = [
     {
-      title: "Personalized Service",
+      title: "Serviço personalizado",
       description: "Levamos o tempo necessário para entender suas necessidades específicas e encontramos a cobertura certa, não apenas uma política de tamanho único para todos.",
     },
     {
-      title: "Technological Expertise",
+      title: "Conhecimento técnico",
       description: "Utilizando ferramentas modernas para agilizar o processo de seguro, tornando-o mais fácil e eficiente para você.",
     },
     {
-      title: "Wide Range of Partners",
+      title: "Ampla gama de parceiros",
       description: "Nossa extensa rede de seguradoras de alto nível garante que você obtenha os melhores preços e as melhores opções.",
     },
   ];
@@ -80,10 +80,10 @@ const About = () => {
       <section className="py-12 lg:py-16 bg-muted">
         <div className="container mx-auto px-4 text-center">
           <h1 className="text-4xl lg:text-5xl font-bold text-primary mb-6">
-            Our History, Your Security.
+            Nossa história, sua segurança..
           </h1>
           <p className="text-lg lg:text-xl text-muted-foreground max-w-3xl mx-auto">
-            Learn more about our commitment to protecting what matters most to you.
+            Saiba mais sobre o nosso compromisso em proteger o que é mais importante para você.
           </p>
         </div>
       </section>
@@ -92,7 +92,7 @@ const About = () => {
       <section className="py-16 lg:py-24">
         <div className="container mx-auto px-4">
           <h2 className="text-3xl lg:text-4xl font-bold text-primary text-center mb-12 lg:mb-16">
-            Our Journey
+            Nossa jornada
           </h2>
           
           <div className="max-w-4xl mx-auto space-y-8">
@@ -121,7 +121,7 @@ const About = () => {
       <section className="py-16 lg:py-24 bg-muted">
         <div className="container mx-auto px-4">
           <h2 className="text-3xl lg:text-4xl font-bold text-primary text-center mb-12 lg:mb-16">
-            Our Philosophy
+            Conheça nossa equipe
           </h2>
           
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
@@ -173,7 +173,7 @@ const About = () => {
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
             <div>
               <h2 className="text-3xl lg:text-4xl font-bold text-primary mb-8">
-                What Sets Us Apart
+                O que nos diferencia
               </h2>
               
               <div className="space-y-6">
