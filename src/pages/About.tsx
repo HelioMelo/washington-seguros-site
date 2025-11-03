@@ -1,8 +1,8 @@
 import { BookOpen, Handshake, Building, Award, Target, Eye, Heart } from "lucide-react";
 import teamJohn from "@/assets/team-john.jpg";
-import teamMaria from "@/assets/team-maria.jpg";
-import teamDavid from "@/assets/team-david.jpg";
-import teamEmily from "@/assets/team-emily.jpg";
+// import teamMaria from "@/assets/team-maria.jpg";
+// import teamDavid from "@/assets/team-david.jpg";
+// import teamEmily from "@/assets/team-emily.jpg";
 import consultation from "@/assets/consultation.jpg";
 
 const About = () => {
